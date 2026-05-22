@@ -7,9 +7,8 @@
 <!-- 2. プロフィールや連絡先を変更 -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
-- 🧑‍💻 I'm a backend engineer.
-- 🌱 I’m currently learning go!
-- 📫 How to reach me:
+- 🎓 I'm a first-year Computer Science student.
+- 🌱 I'm currently learning the basics of Programming & Cybersecurity!
 <br>
 
 
